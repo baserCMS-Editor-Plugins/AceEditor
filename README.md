@@ -1,6 +1,6 @@
 # Ace Editor for baserCMS
 
-[Ace Editor](http://ace.c9.io/) plug-in for baserCMS
+[Ace Editor](http://ace.c9.io/) plug-in for [baserCMS](http://basercms.net/)
 
 ![DEMO](demo.gif)
 
